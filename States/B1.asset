@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c525d76db7ed8a439c19a88e9e739fc, type: 3}
+  m_Name: B1
+  m_EditorClassIdentifier: 
+  StoryText: "\nYou now go and talk to the crew and discover that the pilot has not
+    been picking up the call ever since now, being a detective your curiosity peaks
+    up and you now wonder what happened to the pilot. Also, you get a call from your
+    Colleague Detective Bradman. Ringing....... \r\n1. Pickup the call \r\n2. Ignore
+    It"
+  nextstates:
+  - {fileID: 11400000, guid: 2039cec5cec918849a6f7c0c5e93ebd7, type: 2}
+  - {fileID: 11400000, guid: b3a557a89b9f7624b8dafd8e2cc9230c, type: 2}

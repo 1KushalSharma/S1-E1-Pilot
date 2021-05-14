@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c525d76db7ed8a439c19a88e9e739fc, type: 3}
+  m_Name: E4
+  m_EditorClassIdentifier: 
+  StoryText: "\nNow, Since you run towards the cockpit you see the air hostess and
+    try to distract her so you using the flashlight blocks her vision and runs towards
+    the cockpit... Now you have called the Authorities and you notice that the pilot
+    is not moving from his seat... you uncover his face and see he is dead .... what
+    do you do? \r\n1. Put the plane on autopilot \r\n2. Go and arrest the Air Hostess"
+  nextstates:
+  - {fileID: 11400000, guid: ec2d160b0b9a59c47aab0f6428bb8f05, type: 2}
+  - {fileID: 11400000, guid: 9ec9856b416a8f84a9277063473a6634, type: 2}

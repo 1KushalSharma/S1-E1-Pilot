@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c525d76db7ed8a439c19a88e9e739fc, type: 3}
+  m_Name: E2
+  m_EditorClassIdentifier: 
+  StoryText: "\n Since you thought its just a delusion and fell asleep after some
+    time you wake up and see everyone near you is sleeping except that guy who is
+    staring at you. What do you do now? \r\n1. Go and talk to that guy that what's
+    up with him. \r\n2. Read a book that was with you thinking about your vacation"
+  nextstates:
+  - {fileID: 11400000, guid: 66191e620fd5cd54d8d7252ba64dac0b, type: 2}
+  - {fileID: 11400000, guid: cfd2d4841b09f7640a14e7bd63001427, type: 2}

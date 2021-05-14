@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c525d76db7ed8a439c19a88e9e739fc, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  StoryText: "\nThe Pilot is missing and the plane is about to take off. You are
+    an undercover detective who coincidentally sat on this plane and now, you're
+    seeing that the pilot hasn't arrived yet and now you're starting to wonder that
+    what's going on!! What do you do now? \r\n1. Go and talk to the crew \r\n2. Sit
+    and mind your own Business"
+  nextstates:
+  - {fileID: 11400000, guid: 83ca9a6c022afb845bf6847d527e7b88, type: 2}
+  - {fileID: 11400000, guid: 563033285604e844d983bc793025e10a, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c525d76db7ed8a439c19a88e9e739fc, type: 3}
+  m_Name: F2
+  m_EditorClassIdentifier: 
+  StoryText: "\n Since you chose to go and speak to that guy you discover that something
+    is really weird about him and he wants to go to the washroom even amidst your
+    conversation... Something is off about him but your detective instincts would
+    not stop wondering... What do you do now? \n1. Try to make him speak \n2. Just
+    let him be and back to your place"
+  nextstates:
+  - {fileID: 11400000, guid: 19cbf27af4d136841904ff43b63165b8, type: 2}
+  - {fileID: 11400000, guid: cfd2d4841b09f7640a14e7bd63001427, type: 2}

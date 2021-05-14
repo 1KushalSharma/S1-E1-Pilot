@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c525d76db7ed8a439c19a88e9e739fc, type: 3}
+  m_Name: E1
+  m_EditorClassIdentifier: 
+  StoryText: "\nNow, Since he is your old friend and he understands morse code, so
+    you wink at him and start tapping your table so that you communicate with him
+    in morse code when everybody suspects you could make an excuse that it is a beat
+    so now nobody would understand, he understands the message and panicked, he starts
+    distracting everybody as per the plan... What do you do? \n1. Run towards the
+    cockpit \n2. Stay at your seat"
+  nextstates:
+  - {fileID: 11400000, guid: e7fcad5aa6a7b4e42be1b21be19b2877, type: 2}
+  - {fileID: 11400000, guid: cdc06953ca363844186418ea4a13e1d4, type: 2}

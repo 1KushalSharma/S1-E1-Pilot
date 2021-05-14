@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c525d76db7ed8a439c19a88e9e739fc, type: 3}
+  m_Name: d3
+  m_EditorClassIdentifier: 
+  StoryText: '
+
+    Now, You charged the air hostess but she falsely mockingly tells
+    that this was a story of her favorite novel and she knows your identity as well
+    .... She now tells everybody on the flight that you''re a terrorist and then
+    everybody starts panicking .... the bomb blows up and you die along with everyone...
+    :(
+
+
+    GAME OVER'
+  nextstates: []

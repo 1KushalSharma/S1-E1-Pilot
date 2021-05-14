@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c525d76db7ed8a439c19a88e9e739fc, type: 3}
+  m_Name: B2
+  m_EditorClassIdentifier: 
+  StoryText: "\nNow since you are sitting idle, you decide to take a nap expecting
+    the flight to start any moment. Your Colleague Detective Bradman has messaged
+    you saying that there is a case in the city and you will have to cancel your
+    trip... The boss is quite serious and might fire you if you don't work on this
+    case. What do you do now? \r\n1. Immediately leave the flight \r\n2. Pretend
+    the message never came"
+  nextstates:
+  - {fileID: 11400000, guid: 96621dc7e0a25e549bc4dd8cfaca5cf0, type: 2}
+  - {fileID: 11400000, guid: 158c6da3082d435409bcc35a3de19564, type: 2}
